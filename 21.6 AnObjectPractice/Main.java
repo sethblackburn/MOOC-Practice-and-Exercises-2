@@ -3,6 +3,8 @@
 // Since I've started learning this, I've been brainstorming ways to use Java for development.  Reaching the point of 
 // classes REALLY opens things up.
 
+package com.company;
+
 public class Main {
     public static void main(String[] args) {
         Person pekka = new Person("Pekka");
