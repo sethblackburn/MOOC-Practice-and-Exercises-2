@@ -1,7 +1,7 @@
 package com.company;
 
 public class DecreasingCounter {
-    private int value;   // object variable that remembers the value of the counter
+    private int value; 
 
     public DecreasingCounter(int valueAtStart) {
         this.value = valueAtStart;
